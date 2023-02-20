@@ -60,13 +60,13 @@ The data used in the modules for each country can be found below:
 ## Team
 ### Module Authors
 
-- [Ben Hur Pintor](https://github.com/benhur07b) - Modules 0 - 3
+- [Ben Hur Pintor (BNHR)](https://github.com/benhur07b) - Modules 0 - 3
 - [Ketty Adoch](https://github.com/kettyadoch) - Modules 4 - 7
 - [Codrina Maria Ilie](https://github.com/Codrina) - Modules 8 - 10
 
 ### Curriculum Editor and Review
 
-- [Ben Hur Pintor](https://github.com/benhur07b)
+- [Ben Hur Pintor (BNHR)](https://github.com/benhur07b)
 
 ### Translation and Localization
 
@@ -75,15 +75,15 @@ The data used in the modules for each country can be found below:
 - Bangladesh - [Codrina Maria Ilie](https://github.com/Codrina)
 - Brazil - [Bernardo Loureiro](https://github.com/bplmp)
 - Egypt - [Ali Rebaie](https://github.com/AliRebaie) and [Samah Hijazi](https://github.com/Smhhjz)
-- Ethiopia - [Ben Hur Pintor](https://github.com/benhur07b)
+- Ethiopia - [Ben Hur Pintor (BNHR)](https://github.com/benhur07b)
 - Germany - [Knut Hühne](https://github.com/k-nut)
 - Ghana - [Ketty Adoch](https://github.com/kettyadoch)
-- India - [Ben Hur Pintor](https://github.com/benhur07b)
+- India - [Ben Hur Pintor (BNHR)](https://github.com/benhur07b)
 - Kenya - [Ketty Adoch](https://github.com/kettyadoch)
 - Mexico - Ines Alberico, Malena Libman, and [Hernan Casaubon](https://github.com/Hercasau)
-- Philippines - [Ben Hur Pintor](https://github.com/benhur07b), [Codrina Maria Ilie](https://github.com/Codrina), and [Ketty Adoch](https://github.com/kettyadoch)
+- Philippines - [Ben Hur Pintor (BNHR)](https://github.com/benhur07b), [Codrina Maria Ilie](https://github.com/Codrina), and [Ketty Adoch](https://github.com/kettyadoch)
 - South Africa - [Ketty Adoch](https://github.com/kettyadoch)
-- Sri Lanka - [Ben Hur Pintor](https://github.com/benhur07b)
+- Sri Lanka - [Ben Hur Pintor (BNHR)](https://github.com/benhur07b)
 - United Arab Emirates - [Ali Rebaie](https://github.com/AliRebaie) 
 - Vietnam - [Quach Dong Thang](https://github.com/thangqd)
 
